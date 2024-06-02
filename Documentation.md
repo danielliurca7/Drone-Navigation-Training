@@ -30,5 +30,7 @@ Another interesting one will be to introduce some obstacles, that like the wall,
 
 Documentation
 >https://gymnasium.farama.org/index.html
+
 >https://stable-baselines3.readthedocs.io/en/master/
+
 >https://www.youtube.com/playlist?list=PLQVvvaa0QuDf0O2DWwLZBfJeYY-JOeZB1
